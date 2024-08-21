@@ -1,0 +1,7 @@
+le but de ce travail est d'assurer une communication entre un serveur et plusieurs clients  d'une manière sécurise
+etape une:
+le serveur doit avoir la posibilite dechanger des messages cryptes avec ses clients
+etape deux:
+le serveur cree un fichier dan lequel il stocke le nom et l'@IP de chaque client qui se connecte
+le serveur envoie des messages chiffres a chaque client en indiquant les information du client courant.
+le client stocke le message reçu de la part du serveur dan un fichier et repond au serveur avec un accuse de réception en indiquant ses informations
